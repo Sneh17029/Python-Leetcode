@@ -1,3 +1,6 @@
+#Runtime: 24 ms, faster than 94.75% of Python3 online submissions for Second Minimum Node In a Binary Tree.
+# Memory Usage: 14.1 MB, less than 75.26% of Python3 online submissions for Second Minimum Node In a Binary Tree.
+
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
