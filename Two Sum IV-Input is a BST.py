@@ -1,3 +1,6 @@
+#Runtime: 68 ms, faster than 97.02% of Python3 online submissions for Two Sum IV - Input is a BST.
+#Memory Usage: 18.5 MB, less than 42.38% of Python3 online submissions for Two Sum IV - Input is a BST.
+
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
