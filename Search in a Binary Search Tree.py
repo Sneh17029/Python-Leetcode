@@ -1,3 +1,5 @@
+# Runtime: 64 ms, faster than 97.44% of Python3 online submissions for Search in a Binary Search Tree.
+# Memory Usage: 16.1 MB, less than 65.74% of Python3 online submissions for Search in a Binary Search Tree.
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
